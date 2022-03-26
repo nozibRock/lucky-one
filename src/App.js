@@ -18,7 +18,8 @@ function App() {
 
 
   const emptyCart = () => {
-    console.log('cart empty');
+      cart = setCart([]);
+    
   };
 
   const chooseItem = () => {

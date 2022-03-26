@@ -31,18 +31,30 @@ body {
   cursor: pointer;
 }
 #chooseForMe {
-  background-color: green;
+  background-color: rgb(3, 121, 3);
   color: bisque;
   border-radius: 10px;
   padding: 15px;
 }
+
+#chooseForMe:hover {
+  background-color: rgb(0, 192, 0);
+ 
+}
+
 #emptyCart {
-  background-color: red;
+  background-color: rgba(243, 63, 63, 0.87);
   color: bisque;
   margin-left: 20px;
   border-radius: 10px;
   padding: 15px;
 }
+
+#emptyCart:hover {
+  background-color: rgb(253, 0, 0);
+
+}
+
 .shop-container{
   display: grid;
   grid-template-columns:4fr 2fr;
