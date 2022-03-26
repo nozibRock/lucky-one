@@ -57,7 +57,7 @@ function App() {
             <h1 id="chooseForMe">Choose one for me</h1>
           </button>
           <button className="modal-close-button" onClick={emptyCart}>
-            <h1 id="emptyCart">Empty Cart</h1>
+            <h1 id="emptyCart">Chose Again</h1>
           </button>
         </div>
       </div>
