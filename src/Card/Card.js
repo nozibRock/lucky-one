@@ -16,7 +16,7 @@ const Card = (props) => {
       </div>
       <div className="add-to-cart">
         <button onClick={() => props.handleAddToCart(props.bike)}>
-        Add to Cart <BsFillCartFill className="icon" /> 
+        <h3>Add to Cart</h3> <BsFillCartFill className="icon" /> 
         </button>
         
       </div>

@@ -1,5 +1,5 @@
 .card {
-  background-color: #04c289;
+  background-color: #03835c;
   height: 530px;
   width: 350px;
   padding: 15px;
@@ -37,12 +37,16 @@
 }
 
 .add-to-cart button {
-  background-color: rgb(199, 243, 4);
+  background-color: rgb(224, 252, 66);
   border: none;
   height: 70px;
-  width: 120px;
+  width: 100%;
+  border-radius: 20px;
 }
+.add-to-cart button:hover {
+  background-color: rgb(181, 212, 0);
 
+}
 .cart_img{
   width: 100px;
 }
@@ -57,4 +61,5 @@
 
 .icon {
   font-size: 1.5rem;
+  color: rgb(0, 158, 21);
 }
