@@ -1,0 +1,56 @@
+[
+    {
+        "key": "1",
+        "image":"https://picsum.photos/id/180/2400/1600",
+        "name":"Macbook",
+        "price": 1900
+    },
+    {
+        "key": "2",
+        "image":"https://picsum.photos/id/111/4400/2656",
+        "name":"Old Car",
+        "price": 2600
+    },
+    {
+        "key": "3",
+        "image":"https://picsum.photos/id/21/3008/2008",
+        "name":"Woman Shoe",
+        "price": 250
+    },
+    {
+        "key": "4",
+        "image":"https://picsum.photos/id/367/4928/3264",
+        "name":"Kindle Ebook Reader",
+        "price": 90
+    },
+    {
+        "key": "5",
+        "image":"https://picsum.photos/id/146/5184/3456",
+        "name":"Bicycle",
+        "price": 430
+    },
+    {
+        "key": "6",
+        "image":"https://picsum.photos/id/160/3200/2119",
+        "name":"Iphone",
+        "price": 990
+    },
+    {
+        "key": "7",
+        "image":"https://picsum.photos/id/250/4928/3264",
+        "name":"Camera",
+        "price": 1100
+    },
+    {
+        "key": "8",
+        "image":"https://picsum.photos/id/175/2896/1944",
+        "name":"Table Clock ",
+        "price": 20
+    },
+    {
+        "key": "9",
+        "image":"https://picsum.photos/id/30/367/267",
+        "name":"Coffee Mug",
+        "price": 15
+    }
+]
