@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Honda CB150R",
+    "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/honda-cb150r-exmotion-black60d8325d1ac40.webp",
+    "price": "550,000.00"
+  },
+  {
+    "id": 2,
+    "name": "Suzuki GSX-S150",
+    "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/suzuki-gsx-s150-blue60d70b0516555.webp",
+    "price": "350,000.00"
+  },
+  {
+    "id": 3,
+    "name": "Honda CB150R",
+    "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/honda-cb150r-streetfire-black60d8340642dbd.webp",
+    "price": "380,000.00"
+  },
+  {
+    "id": 4,
+    "name": "Yamaha Vixion R",
+    "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/yamaha-vixion-blue60d70102e946b.webp",
+    "price": "360,000.00"
+  },
+  {
+    "id": 5,
+    "name": "Kawasaki Ninja 125",
+    "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/kawasaki-ninja-125-202262020fb2bdd48.webp",
+    "price": "499,000.00"
+  },
+  {
+    "id": 6,
+    "name": "KTM RC 125 I",
+    "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/1619593445_12_157973.jpeg",
+    "price": "430,000.00"
+  },
+  {
+    "id": 7,
+    "name": "CFMoto 300NK",
+    "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/1618211438_12_793920.jpeg",
+    "bullet": "12 Gauge",
+    "price": "340,000.00"
+  },
+  {
+    "id": 8,
+    "name": "TVS Apache RTR",
+    "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/1618902784_12_608524.jpeg",
+    "price": "250,000.00"
+  },
+  {
+    "id": 9,
+    "name": "Royal Enfield Classic",
+    "img": "https://www.bikebd.com/den/storage/app/files/shares/images/productimages/slider/1618731853_12_577659.jpeg",
+    "price": "500,000.00"
+  }
+]
